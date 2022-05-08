@@ -33,7 +33,7 @@ int main() {
 
 		cout << "-------------------" << endl;
 		game.init(); // reset value
-		cc.display(); // display cardcounting value if on
+		//cc.display(); // display cardcounting value if on
 		cout << "Starting stack: " << bank << endl;
 		while (true) {
 			cout << "Place your bet: ";
